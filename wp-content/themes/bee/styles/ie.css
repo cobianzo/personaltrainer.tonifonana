@@ -1,0 +1,17 @@
+/*For IE8 & 9 */
+
+.search_top_form input[type="text"]{ margin-right:20px; background:none; }
+#navi>div>ul>li{ margin-left:-4px; }
+.tagcloud{ text-align:justify\9; }
+/*
+.header-layout-a #headerinn_s{ line-height:40px; position: static; }
+.header-layout-a #socialicons{ float:left; }
+#socialicons > a span{ width:40px; height:40px;}
+.header-layout-a #socialicons a{ line-height:40px; height:40px; }
+.header-layout-a #socialicons a i{ line-height:40px; width:40px;}
+.search_top_form input[type="search"],.search_top_form input[type="text"]{ margin-left:0px; margin-top:0; padding:0 0 0 15px; height:20px; max-height:40px; line-height:20px;}
+.header-layout-a .search_top_form{ height:40px; max-height:40px; }
+*/
+.header-layout-b input.search_top_form_text[type="search"], .header-layout-b input.search_top_form_text[type="text"]{ height:40px; line-height:40px;}
+.single-feild-submit{ margin-top:-35px; position:relative; top:-15px; }
+.single-feild{ position:relative;}

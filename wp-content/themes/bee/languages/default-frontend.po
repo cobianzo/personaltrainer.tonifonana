@@ -1,0 +1,1536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bee 1.5 wp theme front end\n"
+"POT-Creation-Date: 2013-12-09 22:02+0800\n"
+"PO-Revision-Date: 2013-12-09 22:02+0800\n"
+"Last-Translator: fanpeng <fanpengbj@gmail.com>\n"
+"Language-Team: bwsm <uiueux@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-Basepath: C:\\Users\\Administrator\\Desktop\\bee\\functions\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions-part4.php:5
+msgid "Liquid list"
+msgstr ""
+
+#: functions-part4.php:10
+msgid "Style by Default"
+msgstr ""
+
+#: functions-part4.php:11
+msgid "Choose a style for the Liquid List"
+msgstr ""
+
+#: functions-part4.php:15
+msgid "Enable Mouseover Effect"
+msgstr ""
+
+#: functions-part4.php:16
+msgid "Turn on it to enable mouseover effect"
+msgstr ""
+
+#: functions-part4.php:20 functions-part4.php:118
+msgid "Image Size"
+msgstr ""
+
+#: functions-part4.php:21
+msgid "Choose a size for the images under image style"
+msgstr ""
+
+#: functions-part4.php:25
+msgid "Block Ratio"
+msgstr ""
+
+#: functions-part4.php:26
+msgid ""
+"The images come from featured image, a image larger than 600*600px would be "
+"recommended"
+msgstr ""
+
+#: functions-part4.php:30
+msgid "Spacing Between Blocks"
+msgstr ""
+
+#: functions-part4.php:31
+msgid "The size of gaps between post blocks"
+msgstr ""
+
+#: functions-part4.php:36 functions-part4.php:98 functions-part5.php:47
+msgid "Category"
+msgstr ""
+
+#: functions-part4.php:37 functions-part4.php:99 functions-part5.php:48
+msgid "The posts under the category you selected would be shown in this module"
+msgstr ""
+
+#: functions-part4.php:41 functions-part4.php:113 functions-part5.php:62
+msgid "Order by"
+msgstr ""
+
+#: functions-part4.php:42 functions-part4.php:114 functions-part5.php:63
+msgid "Select sequence rules for the list"
+msgstr ""
+
+#: functions-part4.php:46
+msgid "Pagination"
+msgstr ""
+
+#: functions-part4.php:47
+msgid ""
+"The \"Twitter\" option is to show a \"Load More\" button on the bottom of "
+"the list"
+msgstr ""
+
+#: functions-part4.php:51
+msgid "Number per Page"
+msgstr ""
+
+#: functions-part4.php:52
+msgid ""
+"How many items should be displayed per page, leave it empty to show all "
+"items in one page"
+msgstr ""
+
+#: functions-part4.php:56
+msgid "Loading Block Color"
+msgstr ""
+
+#: functions-part4.php:57
+msgid "The panel color for the loading status after you click on it"
+msgstr ""
+
+#: functions-part4.php:61
+msgid "Expanded Block Width"
+msgstr ""
+
+#: functions-part4.php:62
+msgid "The width after a block is expanded"
+msgstr ""
+
+#: functions-part4.php:66
+msgid "Expanded Block Words Numbers"
+msgstr ""
+
+#: functions-part4.php:67
+msgid "How many descrptions should be showed for a expanded block"
+msgstr ""
+
+#: functions-part4.php:71
+msgid "Show Social Medias on Expanded Block"
+msgstr ""
+
+#: functions-part4.php:72
+msgid "Enable it to show Social Medias links on expanded block"
+msgstr ""
+
+#: functions-part4.php:83
+msgid "Latest/Related Post"
+msgstr ""
+
+#: functions-part4.php:88
+msgid "Layout"
+msgstr ""
+
+#: functions-part4.php:89
+msgid "Choose a layout"
+msgstr ""
+
+#: functions-part4.php:93 functions-part5.php:42
+msgid "Post Type"
+msgstr ""
+
+#: functions-part4.php:94 functions-part5.php:43
+msgid "Check on the post types you want to show on this module"
+msgstr ""
+
+#: functions-part4.php:103 functions-part5.php:52 functions-part5.php:104
+msgid "Number of Items"
+msgstr ""
+
+#: functions-part4.php:104 functions-part5.php:53
+msgid ""
+"How many items should be displayed in this module, leave it empty to show "
+"all items"
+msgstr ""
+
+#: functions-part4.php:108 functions-part5.php:57
+msgid "Ratio of Thumb"
+msgstr ""
+
+#: functions-part4.php:109 functions-part5.php:58
+msgid ""
+"The images come from featured image, choose a ratio to show in this module"
+msgstr ""
+
+#: functions-part4.php:119
+msgid "Choose a size for the images"
+msgstr ""
+
+#: functions-part4.php:123 functions-part5.php:67
+msgid "Show"
+msgstr ""
+
+#: functions-part4.php:124 functions-part5.php:68
+msgid "Check on the elements you want to show"
+msgstr ""
+
+#: functions-part4.php:129 functions-part5.php:72
+msgid "Text Align"
+msgstr ""
+
+#: functions-part4.php:130 functions-part5.php:73
+msgid "Select alignment for the text"
+msgstr ""
+
+#: functions-part4.php:156
+msgid "Standard"
+msgstr ""
+
+#: functions-part4.php:157 functions-part4.php:171
+msgid "Image"
+msgstr ""
+
+#: functions-part4.php:158
+msgid "Portfolio"
+msgstr ""
+
+#: functions-part4.php:159
+msgid "Video"
+msgstr ""
+
+#: functions-part4.php:160
+msgid "Audio"
+msgstr ""
+
+#: functions-part4.php:163 widget-recent-comments.php:97
+#: shortcodeui/config.php:321
+msgid "Title"
+msgstr ""
+
+#: functions-part4.php:164
+msgid "Excerpt"
+msgstr ""
+
+#: functions-part4.php:165
+msgid "Read More Button"
+msgstr ""
+
+#: functions-part4.php:172
+msgid "Magazine"
+msgstr ""
+
+#: functions-part4.php:175
+msgid "0px"
+msgstr ""
+
+#: functions-part4.php:176
+msgid "10px"
+msgstr ""
+
+#: functions-part4.php:177
+msgid "20px"
+msgstr ""
+
+#: functions-part4.php:178
+msgid "30px"
+msgstr ""
+
+#: functions-part4.php:179
+msgid "40px"
+msgstr ""
+
+#: functions-part4.php:182
+msgid "Post Featured Color"
+msgstr ""
+
+#: functions-part4.php:183
+msgid "Grey"
+msgstr ""
+
+#: functions-part4.php:184
+msgid "White"
+msgstr ""
+
+#: functions-part4.php:187
+msgid "2 Columns"
+msgstr ""
+
+#: functions-part4.php:188
+msgid "3 Columns"
+msgstr ""
+
+#: functions-part4.php:189
+msgid "4 Columns"
+msgstr ""
+
+#: functions-part4.php:192
+msgid "Grid"
+msgstr ""
+
+#: functions-part4.php:193
+msgid "Vertical List"
+msgstr ""
+
+#: functions-part4.php:842
+msgid "Read more..."
+msgstr ""
+
+#: functions-part5.php:5 shortcodeui/config.php:339
+msgid "Button"
+msgstr ""
+
+#: functions-part5.php:10 shortcodeui/config.php:231
+msgid "Size"
+msgstr ""
+
+#: functions-part5.php:11
+msgid "Choose a size for the button"
+msgstr ""
+
+#: functions-part5.php:15
+msgid "Button Color"
+msgstr ""
+
+#: functions-part5.php:16
+msgid "Choose a color for the button"
+msgstr ""
+
+#: functions-part5.php:20 functions-part5.php:77
+msgid "Button Text"
+msgstr ""
+
+#: functions-part5.php:21
+msgid "Enter the text you want to show on button"
+msgstr ""
+
+#: functions-part5.php:25
+msgid "Button Link"
+msgstr ""
+
+#: functions-part5.php:26
+msgid "Paste a url for the button"
+msgstr ""
+
+#: functions-part5.php:37
+msgid "Carousel"
+msgstr ""
+
+#: functions-part5.php:78
+msgid "It is a read more button, enter the text you want to show on button"
+msgstr ""
+
+#: functions-part5.php:82
+msgid "Show Navigation Hint"
+msgstr ""
+
+#: functions-part5.php:83
+msgid "Turn on it to show navigation hint"
+msgstr ""
+
+#: functions-part5.php:94
+msgid "Latest Tweets"
+msgstr ""
+
+#: functions-part5.php:99
+msgid "User Name"
+msgstr ""
+
+#: functions-part5.php:100
+msgid "please enter the twitter user name you want to display"
+msgstr ""
+
+#: functions-part5.php:105
+msgid "number of items you want to show"
+msgstr ""
+
+#: functions-part5.php:129
+msgid "Small"
+msgstr ""
+
+#: functions-part5.php:130
+msgid "Medium"
+msgstr ""
+
+#: functions-part5.php:131
+msgid "Large"
+msgstr ""
+
+#: functions-part5.php:134
+msgid "Fade"
+msgstr ""
+
+#: functions-part5.php:135
+msgid "Slide"
+msgstr ""
+
+#: functions-part5.php:192
+msgid "Read more"
+msgstr ""
+
+#: functions-post-type.php:42
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions-post-type.php:76
+msgid "Meta"
+msgstr ""
+
+#: functions-post-type.php:101
+msgid "Team"
+msgstr ""
+
+#: functions-post-type.php:104 functions-post-type.php:124
+#: functions-post-type.php:144 functions-post-type.php:164
+#: functions-post-type.php:184 shortcodeui/config.php:500
+msgid "Add New"
+msgstr ""
+
+#: functions-post-type.php:105
+msgid "Add New Team Member"
+msgstr ""
+
+#: functions-post-type.php:106
+msgid "Edit Team Member"
+msgstr ""
+
+#: functions-post-type.php:107
+msgid "New Team Member"
+msgstr ""
+
+#: functions-post-type.php:108
+msgid "View Team Member"
+msgstr ""
+
+#: functions-post-type.php:109
+msgid "No Team Member found."
+msgstr ""
+
+#: functions-post-type.php:110
+msgid "No Team Member found in Trash."
+msgstr ""
+
+#: functions-post-type.php:111
+msgid "Search Team Member"
+msgstr ""
+
+#: functions-post-type.php:112
+msgid "team_cat"
+msgstr ""
+
+#: functions-post-type.php:113
+msgid "Team Categories"
+msgstr ""
+
+#: functions-post-type.php:115 functions-post-type.php:135
+#: functions-post-type.php:153 functions-post-type.php:155
+#: functions-post-type.php:175 functions-post-type.php:195
+msgid "Categories"
+msgstr ""
+
+#: functions-post-type.php:121
+msgid "Clients"
+msgstr ""
+
+#: functions-post-type.php:125
+msgid "Add New Client"
+msgstr ""
+
+#: functions-post-type.php:126
+msgid "Edit Client"
+msgstr ""
+
+#: functions-post-type.php:127
+msgid "New Client"
+msgstr ""
+
+#: functions-post-type.php:128
+msgid "View Client"
+msgstr ""
+
+#: functions-post-type.php:129
+msgid "No Client found."
+msgstr ""
+
+#: functions-post-type.php:130
+msgid "No Client found in Trash."
+msgstr ""
+
+#: functions-post-type.php:131
+msgid "Search Client"
+msgstr ""
+
+#: functions-post-type.php:132
+msgid "client_cat"
+msgstr ""
+
+#: functions-post-type.php:133
+msgid "Client Categories"
+msgstr ""
+
+#: functions-post-type.php:141
+msgid "Testimonials"
+msgstr ""
+
+#: functions-post-type.php:145
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions-post-type.php:146
+msgid "Edit Testimonial"
+msgstr ""
+
+#: functions-post-type.php:147
+msgid "New Testimonial"
+msgstr ""
+
+#: functions-post-type.php:148
+msgid "View Testimonial"
+msgstr ""
+
+#: functions-post-type.php:149
+msgid "No Testimonial found."
+msgstr ""
+
+#: functions-post-type.php:150
+msgid "No Testimonial found in Trash."
+msgstr ""
+
+#: functions-post-type.php:151
+msgid "Search Testimonial"
+msgstr ""
+
+#: functions-post-type.php:152
+msgid "testimonial_cat"
+msgstr ""
+
+#: functions-post-type.php:161
+msgid "Jobs"
+msgstr ""
+
+#: functions-post-type.php:165
+msgid "Add New Job"
+msgstr ""
+
+#: functions-post-type.php:166
+msgid "Edit Job"
+msgstr ""
+
+#: functions-post-type.php:167
+msgid "New Job"
+msgstr ""
+
+#: functions-post-type.php:168
+msgid "View Job"
+msgstr ""
+
+#: functions-post-type.php:169
+msgid "No Job found."
+msgstr ""
+
+#: functions-post-type.php:170
+msgid "No Job found in Trash."
+msgstr ""
+
+#: functions-post-type.php:171
+msgid "Search Job"
+msgstr ""
+
+#: functions-post-type.php:172
+msgid "job_cat"
+msgstr ""
+
+#: functions-post-type.php:173
+msgid "Job Categories"
+msgstr ""
+
+#: functions-post-type.php:181
+msgid "FAQs"
+msgstr ""
+
+#: functions-post-type.php:185
+msgid "Add New Question"
+msgstr ""
+
+#: functions-post-type.php:186
+msgid "Edit Question"
+msgstr ""
+
+#: functions-post-type.php:187
+msgid "New Question"
+msgstr ""
+
+#: functions-post-type.php:188
+msgid "View Question"
+msgstr ""
+
+#: functions-post-type.php:189
+msgid "No Question found."
+msgstr ""
+
+#: functions-post-type.php:190
+msgid "No Question found in Trash."
+msgstr ""
+
+#: functions-post-type.php:191
+msgid "Search Question"
+msgstr ""
+
+#: functions-post-type.php:192
+msgid "question_cat"
+msgstr ""
+
+#: functions-post-type.php:193
+msgid "Topics"
+msgstr ""
+
+#: functions-post-type.php:266
+msgid "Module Template"
+msgstr ""
+
+#: functions-view-module.php:42 functions-view-module.php:49
+msgid "Load More"
+msgstr ""
+
+#: functions-view-module.php:1797 functions-view-module.php:1897
+#: functions-view-module.php:2763
+msgid "All"
+msgstr ""
+
+#: functions-view-module.php:2080
+msgid "Location:"
+msgstr ""
+
+#: functions-view-module.php:2080
+msgid "Number:"
+msgstr ""
+
+#: functions-view-module.php:2642
+msgid "Name*"
+msgstr ""
+
+#: functions-view-module.php:2642 functions-view-module.php:2643
+#: functions-view-module.php:2644 functions-view-module.php:2645
+#: functions-view-module.php:2655 functions-view-module.php:2696
+#: widget-contact-form.php:42 widget-contact-form.php:43
+#: widget-contact-form.php:44 widget-contact-form.php:51
+msgid "Required"
+msgstr ""
+
+#: functions-view-module.php:2643
+msgid "Email*"
+msgstr ""
+
+#: functions-view-module.php:2643
+msgid "Invalid email"
+msgstr ""
+
+#: functions-view-module.php:2645 functions-view-module.php:2686
+#: widget-contact-form.php:46
+msgid "Sending..."
+msgstr ""
+
+#: functions-view-module.php:2645 widget-contact-form.php:46
+msgid "Please Enter Correct Verification Number"
+msgstr ""
+
+#: functions-view-module.php:2846
+msgid "$"
+msgstr ""
+
+#: functions-view-module.php:2864
+msgid "Buy Now"
+msgstr ""
+
+#: functions.php:61
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:245
+msgid " ago"
+msgstr ""
+
+#: functions.php:250
+msgid "Reply"
+msgstr ""
+
+#: functions.php:253
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: functions.php:266 functions.php:428
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:271 functions.php:421
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:276
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:281 functions.php:456
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:286 functions.php:470
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:291
+msgid "Googleplus"
+msgstr ""
+
+#: functions.php:296 functions.php:505
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:301 functions.php:442
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:306 functions.php:449
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:311 functions.php:617
+msgid "Stumbleupon"
+msgstr ""
+
+#: functions.php:316 functions.php:610
+msgid "Lastfm"
+msgstr ""
+
+#: functions.php:321 functions.php:603
+msgid "Deviantart"
+msgstr ""
+
+#: functions.php:326 functions.php:596
+msgid "Blogger"
+msgstr ""
+
+#: functions.php:331 functions.php:484
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:336 functions.php:498
+msgid "Forrst"
+msgstr ""
+
+#: functions.php:341 functions.php:491
+msgid "Github"
+msgstr ""
+
+#: functions.php:346 functions.php:519
+msgid "VK"
+msgstr ""
+
+#: functions.php:351 functions.php:526
+msgid "Weibo"
+msgstr ""
+
+#: functions.php:356 functions.php:533
+msgid "Wechat"
+msgstr ""
+
+#: functions.php:361 functions.php:547
+msgid "Douban"
+msgstr ""
+
+#: functions.php:366 functions.php:540
+msgid "Renren"
+msgstr ""
+
+#: functions.php:371 functions.php:554
+msgid "Xing"
+msgstr ""
+
+#: functions.php:376 functions.php:561
+msgid "Reddit"
+msgstr ""
+
+#: functions.php:381 functions.php:406 functions.php:512
+msgid "Livejournal"
+msgstr ""
+
+#: functions.php:386 functions.php:568
+msgid "Path"
+msgstr ""
+
+#: functions.php:391 functions.php:575
+msgid "Bebo"
+msgstr ""
+
+#: functions.php:396 functions.php:582
+msgid "Odnoklassniki"
+msgstr ""
+
+#: functions.php:401 functions.php:624
+msgid "Myspace"
+msgstr ""
+
+#: functions.php:411 functions.php:631
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:425 widget-social-icons.php:65
+msgid "Visit Facebook page"
+msgstr ""
+
+#: functions.php:432 widget-social-icons.php:70
+msgid "Visit Twitter page"
+msgstr ""
+
+#: functions.php:435
+msgid "Google+"
+msgstr ""
+
+#: functions.php:439 widget-social-icons.php:75
+msgid "Visit Google Plus page"
+msgstr ""
+
+#: functions.php:446 widget-social-icons.php:135
+msgid "Visit Youtube page"
+msgstr ""
+
+#: functions.php:453 widget-social-icons.php:140
+msgid "Visit Vimeo page"
+msgstr ""
+
+#: functions.php:460 widget-social-icons.php:125
+msgid "Visit Tumblr page"
+msgstr ""
+
+#: functions.php:463
+msgid "RSS"
+msgstr ""
+
+#: functions.php:467
+msgid "Visit Rss"
+msgstr ""
+
+#: functions.php:474 widget-social-icons.php:115
+msgid "Visit Pinterest page"
+msgstr ""
+
+#: functions.php:477
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:481 widget-social-icons.php:145
+msgid "Visit Linkedin page"
+msgstr ""
+
+#: functions.php:488 widget-social-icons.php:120
+msgid "Visit Instagram page"
+msgstr ""
+
+#: functions.php:495 widget-social-icons.php:160
+msgid "Visit Github page"
+msgstr ""
+
+#: functions.php:502
+msgid "Visit Forrst page"
+msgstr ""
+
+#: functions.php:509 widget-social-icons.php:130
+msgid "Visit Flickr page"
+msgstr ""
+
+#: functions.php:516 widget-social-icons.php:180
+msgid "Visit Livejournal page"
+msgstr ""
+
+#: functions.php:523 widget-social-icons.php:80
+msgid "Visit VK page"
+msgstr ""
+
+#: functions.php:530 widget-social-icons.php:85
+msgid "Visit Weibo page"
+msgstr ""
+
+#: functions.php:537 widget-social-icons.php:95
+msgid "Find me at Wechat"
+msgstr ""
+
+#: functions.php:544 widget-social-icons.php:90
+msgid "Visit Renren page"
+msgstr ""
+
+#: functions.php:551 widget-social-icons.php:100
+msgid "Visit Douban page"
+msgstr ""
+
+#: functions.php:558 widget-social-icons.php:165
+msgid "Visit Xing page"
+msgstr ""
+
+#: functions.php:565 widget-social-icons.php:170
+msgid "Visit Reddit page"
+msgstr ""
+
+#: functions.php:572 widget-social-icons.php:175
+msgid "Find me at Path"
+msgstr ""
+
+#: functions.php:579 widget-social-icons.php:110
+msgid "Visit Bebo page"
+msgstr ""
+
+#: functions.php:586 widget-social-icons.php:105
+msgid "Visit Odnoklassniki page"
+msgstr ""
+
+#: functions.php:589 widget-contact-form.php:43 widget-social-icons.php:215
+msgid "Email"
+msgstr ""
+
+#: functions.php:593
+msgid "Mail"
+msgstr ""
+
+#: functions.php:600 widget-social-icons.php:185
+msgid "Visit Blogger page"
+msgstr ""
+
+#: functions.php:607 widget-social-icons.php:190
+msgid "Visit Deviantart page"
+msgstr ""
+
+#: functions.php:614
+msgid "Visit lLastfm page"
+msgstr ""
+
+#: functions.php:621 widget-social-icons.php:200
+msgid "Visit Stumbleupon page"
+msgstr ""
+
+#: functions.php:628 widget-social-icons.php:210
+msgid "Visit Myspace page"
+msgstr ""
+
+#: functions.php:635 widget-social-icons.php:150
+msgid "Visit Dribbble page"
+msgstr ""
+
+#: functions.php:958
+msgid "-- Select Font --"
+msgstr ""
+
+#: functions.php:1775
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1776
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1777
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1778
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1789
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1790
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:1791
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:1817
+msgid "default"
+msgstr ""
+
+#: functions.php:1818
+msgid "sidebar_1"
+msgstr ""
+
+#: functions.php:1819
+msgid "sidebar_2"
+msgstr ""
+
+#: functions.php:1820
+msgid "sidebar_3"
+msgstr ""
+
+#: functions.php:1821
+msgid "sidebar_4"
+msgstr ""
+
+#: functions.php:1822
+msgid "sidebar_5"
+msgstr ""
+
+#: functions.php:1823
+msgid "sidebar_6"
+msgstr ""
+
+#: functions.php:1824
+msgid "sidebar_7"
+msgstr ""
+
+#: functions.php:1825
+msgid "sidebar_8"
+msgstr ""
+
+#: functions.php:1826
+msgid "sidebar_9"
+msgstr ""
+
+#: functions.php:1827
+msgid "sidebar_10"
+msgstr ""
+
+#: functions.php:1845
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:1905
+msgid "PREVIOUS"
+msgstr ""
+
+#: functions.php:1914
+msgid "NEXT"
+msgstr ""
+
+#: widget-contact-form.php:12
+msgid "Shows Contact Form in your blog"
+msgstr ""
+
+#: widget-contact-form.php:14
+msgid "Contact Form"
+msgstr ""
+
+#: widget-contact-form.php:42
+msgid "Name"
+msgstr ""
+
+#: widget-contact-form.php:78 widget-social-icons.php:275
+msgid "Title:"
+msgstr ""
+
+#: widget-contact-form.php:81
+msgid "Recipient Email:"
+msgstr ""
+
+#: widget-contact-form.php:84
+msgid "Button Text:"
+msgstr ""
+
+#: widget-contact-form.php:87
+msgid "Sent Message:"
+msgstr ""
+
+#: widget-contact-form.php:90
+msgid "Show Verify Random Number:"
+msgstr ""
+
+#: widget-contact-form.php:91
+msgid "yes"
+msgstr ""
+
+#: widget-contact-form.php:92
+msgid "no"
+msgstr ""
+
+#: widget-recent-comments.php:100
+msgid "How many comments to show"
+msgstr ""
+
+#: widget-recent-comments.php:102
+msgid "At most 15"
+msgstr ""
+
+#: widget-social-icons.php:18
+msgid "Shows Social Network Icons in your blog"
+msgstr ""
+
+#: widget-social-icons.php:20
+msgid "Social Network Icons"
+msgstr ""
+
+#: widget-social-icons.php:155
+msgid "Visit Forst page"
+msgstr ""
+
+#: widget-social-icons.php:195
+msgid "Visit Lastfm page"
+msgstr ""
+
+#: widget-social-icons.php:205
+msgid "Visit Wordpress page"
+msgstr ""
+
+#: widget-social-icons.php:220
+msgid "Rss"
+msgstr ""
+
+#: widget-social-icons.php:278
+msgid "Your Facebook link:"
+msgstr ""
+
+#: widget-social-icons.php:281
+msgid "Your Twitter link:"
+msgstr ""
+
+#: widget-social-icons.php:284
+msgid "Your GooglePlus link:"
+msgstr ""
+
+#: widget-social-icons.php:287
+msgid "Your VK link:"
+msgstr ""
+
+#: widget-social-icons.php:290
+msgid "Your Weibo link:"
+msgstr ""
+
+#: widget-social-icons.php:293
+msgid "Your Wechat link:"
+msgstr ""
+
+#: widget-social-icons.php:296
+msgid "Your Renren link:"
+msgstr ""
+
+#: widget-social-icons.php:299
+msgid "Your Douban link:"
+msgstr ""
+
+#: widget-social-icons.php:302
+msgid "Your Odnoklassniki link:"
+msgstr ""
+
+#: widget-social-icons.php:305
+msgid "Your Pinterest link:"
+msgstr ""
+
+#: widget-social-icons.php:308
+msgid "Your Instagram link:"
+msgstr ""
+
+#: widget-social-icons.php:311
+msgid "Your Tumblr link:"
+msgstr ""
+
+#: widget-social-icons.php:314
+msgid "Your Linkedin link:"
+msgstr ""
+
+#: widget-social-icons.php:317
+msgid "Your Flickr link:"
+msgstr ""
+
+#: widget-social-icons.php:320
+msgid "Your Youtube link:"
+msgstr ""
+
+#: widget-social-icons.php:323
+msgid "Your Vimeo link:"
+msgstr ""
+
+#: widget-social-icons.php:326
+msgid "Your Dribbble link:"
+msgstr ""
+
+#: widget-social-icons.php:329
+msgid "Your Forst link:"
+msgstr ""
+
+#: widget-social-icons.php:332
+msgid "Your Github link:"
+msgstr ""
+
+#: widget-social-icons.php:336
+msgid "Your Xing link:"
+msgstr ""
+
+#: widget-social-icons.php:339
+msgid "Your Reddit link:"
+msgstr ""
+
+#: widget-social-icons.php:342
+msgid "Your Livejournal link:"
+msgstr ""
+
+#: widget-social-icons.php:345
+msgid "Your Path link:"
+msgstr ""
+
+#: widget-social-icons.php:348
+msgid "Your Bebo link:"
+msgstr ""
+
+#: widget-social-icons.php:353
+msgid "Your Blogger link:"
+msgstr ""
+
+#: widget-social-icons.php:356
+msgid "Your Deviantart link:"
+msgstr ""
+
+#: widget-social-icons.php:359
+msgid "Your Lastfm link:"
+msgstr ""
+
+#: widget-social-icons.php:362
+msgid "Your Stumbleupon link:"
+msgstr ""
+
+#: widget-social-icons.php:365
+msgid "Your Myspace link:"
+msgstr ""
+
+#: widget-social-icons.php:368
+msgid "Your Wordpress link:"
+msgstr ""
+
+#: widget-social-icons.php:371
+msgid "Your Email:"
+msgstr ""
+
+#: widget-social-icons.php:374
+msgid "Your RSS link:"
+msgstr ""
+
+#: shortcodeui/config.php:9
+msgid "Text"
+msgstr ""
+
+#: shortcodeui/config.php:10
+msgid "Add the button's text"
+msgstr ""
+
+#: shortcodeui/config.php:15 shortcodeui/config.php:274
+#: shortcodeui/config.php:402
+msgid "Link"
+msgstr ""
+
+#: shortcodeui/config.php:16
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: shortcodeui/config.php:20 shortcodeui/config.php:288
+#: shortcodeui/config.php:442
+msgid "Color"
+msgstr ""
+
+#: shortcodeui/config.php:21
+msgid "Select the button's colour"
+msgstr ""
+
+#: shortcodeui/config.php:37
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:45
+msgid "Location<br>(Lat/Lng)"
+msgstr ""
+
+#: shortcodeui/config.php:46
+msgid ""
+"Link to your map. Visit <a href=\"http://maps.google.com/\" target=\"_blank"
+"\">Google maps</a> find your address and then click \"Link\" button to "
+"obtain your map link.<br>You need to get your location Lat/Lng in this page"
+msgstr ""
+
+#: shortcodeui/config.php:51 shortcodeui/config.php:300
+#: shortcodeui/config.php:360 shortcodeui/config.php:408
+#: shortcodeui/config.php:468 shortcodeui/config.php:730
+msgid "Width"
+msgstr ""
+
+#: shortcodeui/config.php:52
+msgid "Add the Maps's width eg 90%"
+msgstr ""
+
+#: shortcodeui/config.php:57 shortcodeui/config.php:414
+msgid "Height"
+msgstr ""
+
+#: shortcodeui/config.php:58
+msgid "Add the Maps's height eg 300px"
+msgstr ""
+
+#: shortcodeui/config.php:64
+msgid "Insert Google Maps Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:73
+msgid "Letter"
+msgstr ""
+
+#: shortcodeui/config.php:78
+msgid "Insert First Letter Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:225
+msgid "Select icon"
+msgstr ""
+
+#: shortcodeui/config.php:226 shortcodeui/config.php:702
+msgid "Add the icon"
+msgstr ""
+
+#: shortcodeui/config.php:241 shortcodeui/config.php:280
+msgid "Insert Face Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:268
+msgid "Please select the type"
+msgstr ""
+
+#: shortcodeui/config.php:275
+msgid "Please enter the url, e.g. http://www.facebook.com/your-facebook-name"
+msgstr ""
+
+#: shortcodeui/config.php:289
+msgid "Select the Message box's colour"
+msgstr ""
+
+#: shortcodeui/config.php:301
+msgid "Add the Message box's width eg 95%"
+msgstr ""
+
+#: shortcodeui/config.php:306
+msgid "Message box's Text"
+msgstr ""
+
+#: shortcodeui/config.php:307
+msgid "Add the Message box's text"
+msgstr ""
+
+#: shortcodeui/config.php:312
+msgid "Insert Message box Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:322
+msgid "The shortcode only works in page"
+msgstr ""
+
+#: shortcodeui/config.php:327
+msgid "Name Box"
+msgstr ""
+
+#: shortcodeui/config.php:333
+msgid "Email Box"
+msgstr ""
+
+#: shortcodeui/config.php:346
+msgid "Insert Contact Form Shortcode (The shortcode only works in page)"
+msgstr ""
+
+#: shortcodeui/config.php:354 shortcodeui/config.php:396
+msgid "Image URL"
+msgstr ""
+
+#: shortcodeui/config.php:355 shortcodeui/config.php:397
+msgid "Add the image's url"
+msgstr ""
+
+#: shortcodeui/config.php:361
+msgid "Add the image's width eg 95%"
+msgstr ""
+
+#: shortcodeui/config.php:365
+msgid "Border Style"
+msgstr ""
+
+#: shortcodeui/config.php:366
+msgid "Select the border's style"
+msgstr ""
+
+#: shortcodeui/config.php:376
+msgid "Image Name"
+msgstr ""
+
+#: shortcodeui/config.php:377
+msgid "Add the image's name"
+msgstr ""
+
+#: shortcodeui/config.php:382
+msgid "Image Link URL"
+msgstr ""
+
+#: shortcodeui/config.php:383
+msgid "Add the image's link url, It's optional."
+msgstr ""
+
+#: shortcodeui/config.php:388
+msgid "Insert Image Border Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:409
+msgid "Add the image's width eg 140"
+msgstr ""
+
+#: shortcodeui/config.php:415
+msgid "Add the image's height eg 140"
+msgstr ""
+
+#: shortcodeui/config.php:419
+msgid "Align"
+msgstr ""
+
+#: shortcodeui/config.php:429
+msgid "Radius"
+msgstr ""
+
+#: shortcodeui/config.php:430
+msgid "Add the image's radius eg 70"
+msgstr ""
+
+#: shortcodeui/config.php:435
+msgid "Insert Image Round shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:443
+msgid "Select the Line's colour"
+msgstr ""
+
+#: shortcodeui/config.php:457
+msgid "Style"
+msgstr ""
+
+#: shortcodeui/config.php:458
+msgid "Select the Line's type"
+msgstr ""
+
+#: shortcodeui/config.php:469
+msgid "Add the Line's width eg 95%"
+msgstr ""
+
+#: shortcodeui/config.php:473
+msgid "Insert Line Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:482
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:487
+msgid "Toggle Content Title"
+msgstr ""
+
+#: shortcodeui/config.php:488
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: shortcodeui/config.php:494
+msgid "Toggle Content"
+msgstr ""
+
+#: shortcodeui/config.php:495
+msgid "Add the toggle content."
+msgstr ""
+
+#: shortcodeui/config.php:508
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:516
+msgid "Column Type"
+msgstr ""
+
+#: shortcodeui/config.php:517
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: shortcodeui/config.php:546
+msgid "Column Content"
+msgstr ""
+
+#: shortcodeui/config.php:547
+msgid "Add the column content."
+msgstr ""
+
+#: shortcodeui/config.php:551
+msgid "Add a new Column"
+msgstr ""
+
+#: shortcodeui/config.php:561
+msgid "List Icon"
+msgstr ""
+
+#: shortcodeui/config.php:707
+msgid "List Content"
+msgstr ""
+
+#: shortcodeui/config.php:713
+msgid "Insert Text List Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:721
+msgid "Insert Fixed Columns Shortcode"
+msgstr ""
+
+#: shortcodeui/config.php:731
+msgid "e.g. 300px"
+msgstr ""
+
+#: shortcodeui/config.php:736
+msgid "Margin Top"
+msgstr ""
+
+#: shortcodeui/config.php:737
+msgid "Column spacing on the top, e.g. 20px"
+msgstr ""
+
+#: shortcodeui/config.php:742
+msgid "Margin Left"
+msgstr ""
+
+#: shortcodeui/config.php:743
+msgid "Column spacing on the left, e.g. 20px"
+msgstr ""
+
+#: shortcodeui/config.php:748
+msgid "Margin Bottom"
+msgstr ""
+
+#: shortcodeui/config.php:749
+msgid "Column spacing on the bottom, e.g. 20px"
+msgstr ""
+
+#: shortcodeui/config.php:754
+msgid "Margin Right"
+msgstr ""
+
+#: shortcodeui/config.php:755
+msgid "Column spacing on the right, e.g. 20px"
+msgstr ""
+
+#: shortcodeui/config.php:760
+msgid "Content"
+msgstr ""
+
+#: shortcodeui/config.php:765
+msgid "Add Fixed Columns"
+msgstr ""
+
+#: theme/theme-admin.php:53
+msgid "Select Language"
+msgstr ""
+
+#: theme/theme-admin.php:90
+msgid "WPML not installed and activated."
+msgstr ""
