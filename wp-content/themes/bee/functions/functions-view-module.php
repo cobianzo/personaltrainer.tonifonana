@@ -294,7 +294,7 @@ function ux_view_module_load($module_id, $post_id, $paged, $module_post){
 								'post-format-quote',
 								'post-format-link',
 								'post-format-audio',
-								/*'post-format-video' */
+								'post-format-video'
 							),
 							'operator' => 'NOT IN'
 						)

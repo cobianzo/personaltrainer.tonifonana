@@ -630,7 +630,7 @@ if ( ! class_exists( 'TGM_Plugin_Activation' ) ) {
 					}
 					/** Need higher privileges to activate the plugin */
 					else {
-						// $message['notice_cannot_activate'][] = $plugin['name'];   ALV: lo tuve que quitar pues le aparecía hasta a  un sebscriptor!
+						$message['notice_cannot_activate'][] = $plugin['name'];
 					}
 				}
 			}

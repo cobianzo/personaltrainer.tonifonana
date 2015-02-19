@@ -176,14 +176,7 @@ if($get_post_type == 'post'): ?>
     
     <?php endif; ?>
     
-    <?php if(!has_post_format('quote')): 
-		// Este es el content de standard - el de las noticias, aplicaciones etc
-		if ((in_category("noticia"))&&( has_post_thumbnail())) { ?>
-			<div class="alignleft nice-thumb">
-				<?php echo get_the_post_thumbnail(get_the_ID(), 'medium'); ?>
-			</div>
-		<?php }
-	?>
+    <?php if(!has_post_format('quote')): ?>
         <div class="entry"><?php the_content(); wp_link_pages(); ?></div>
     <?php endif; ?>
 	<?php

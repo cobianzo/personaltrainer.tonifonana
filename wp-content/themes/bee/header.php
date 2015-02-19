@@ -62,21 +62,10 @@
                 <div id="top_bar">
 			
                     <div class="top_bar_inn container">
-					
-					
-					
-						<?php //ALV: añadido por mi
-						if (is_user_logged_in()) {
-							global $current_user;
-							echo "<font>".__('loggeado como')." ".$current_user->display_name."</font> 
-							<a href='".admin_url( 'user-edit.php?user_id=' . $current_user->ID, 'http' )."' rel='noindex nofolloe'>".__('edita perfil')."</a>";
-							echo "| <font><a href='".wp_logout_url(get_permalink())."' rel='noindex nofolloe'>".__('logout')."</a> </font>";
-						}else {		
-							echo "<font><a href='".wp_login_url(get_permalink())."' rel='noindex nofollow'>".__('accede')."</a> | <a href='".wp_registration_url()."' rel='noindex nofollow'>".__('registrate')."</a>&nbsp;&nbsp;&nbsp;</font>";
-						?>
+                    
                         <?php ux_theme_option_show('header_info'); ?>
                         <?php ux_theme_option_show('header_wpml'); ?>
-                        <?php } ?>
+                        
                     </div>
                 </div><!--End .top_bar-->	
             <?php endif; ?>
@@ -117,13 +106,7 @@
 					
 					
 				</div><!--End #headerinn_main-->
-	
-				<div class='hidefaraway'>
-				<?php 
-				if (is_single() && has_post_thumbnail()) {
-					the_post_thumbnail();
-				}
-				?></div>
+				
 				<div id="logo"><?php ux_theme_option_show('logo'); ?></div>
 			</div><!--End #header_inn-->
             
